@@ -58,7 +58,7 @@
                     </div>
                 </div>
 
-                <div class="swiper-slide slide" style="background:url(image/b1.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background:url(image/b2.jpg) no-repeat">
                     <div class="content">
                         <span>explore, discover, travel</span>
                         <h3>Make your tour worthwhile</h3>
