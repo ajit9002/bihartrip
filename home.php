@@ -34,6 +34,171 @@
     <div id="menu-btn" class="fas fa-bars"></div>
 
     </section>
+    
+     <!-- header section ends  -->
+
+     <!-- home section start  -->
+    
+     <section class="home"  >
+        <div class="swiper home-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide slide" style="background:url(image/b1.jpg) no-repeat">
+                    <div class="content">
+                        <span>explore, discover, travel</span>
+                        <h3>Tarvel around the world</h3>
+                        <a href="package.php" class="btn">Discover more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide" style="background:url(image/b1.jpg) no-repeat">
+                    <div class="content">
+                        <span>explore, discover, travel</span>
+                        <h3>Discover the new places</h3>
+                        <a href="package.php" class="btn">Discover more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide" style="background:url(image/b1.jpg) no-repeat">
+                    <div class="content">
+                        <span>explore, discover, travel</span>
+                        <h3>Make your tour worthwhile</h3>
+                        <a href="package.php" class="btn">Discover more</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            
+        </div>
+     </section>
+
+
+
+     <!-- home section ends  -->
+
+
+
+     <!-- services section starts  -->
+    
+     <section class="services">
+        <h1 class="heading-title">Our Services</h1>
+
+        <div class="box-container">
+            <div class="box">
+                <img src="image/adventure.png" alt="">
+                <h3>adventure</h3>
+            </div>
+            <div class="box">
+                <img src="image/tour-guide.png" alt="">
+                <h3>tour guide</h3>
+            </div>
+            <div class="box">
+                <img src="image/trekking.png" alt="">
+                <h3>trekking</h3>
+            </div>
+            <div class="box">
+                <img src="image/campfire.png" alt="">
+                <h3>camp fire</h3>
+            </div>
+            <div class="box">
+                <img src="image/catering.png" alt="">
+                <h3>catering</h3>
+            </div>
+            <div class="box">
+                <img src="image/tent.png" alt="">
+                <h3>camping</h3>
+            </div>
+            
+        </div>
+     </section>
+
+
+     <!-- services section ends  -->
+
+     <!-- home about section start  -->
+
+    <section class="home-about">
+        <div class="image">
+            <img src="image/about-us.jpg" alt="about us">
+        </div>
+
+        <div class="content">
+            <h3>about us</h3>
+            <p>
+                Welcome to our tour and travel website! We are passionate about helping people create unforgettable travel experiences by providing personalized and comprehensive travel services.
+
+                Our team is made up of experienced travel professionals who are dedicated to ensuring that you have the best possible trip. We understand that everyone has different travel preferences and priorities, which is why we work closely with our clients to create customized travel itineraries that suit their unique needs.
+
+                Our services include everything from flight and hotel bookings to transportation and tours. We have partnered with trusted airlines, hotels, and tour operators to offer our clients the best possible deals and experiences.
+
+                Whether you're planning a solo adventure, a family vacation, or a romantic getaway, we are here to help. Our goal is to take the stress out of travel planning so that you can focus on enjoying your trip.
+
+                So why wait? Contact us today to start planning your next adventure!
+        </p>
+        <a href="about.php" class='btn'>read more</a>
+        </div>
+    </section>
+     <!-- home about section ends  -->
+
+     <!-- home package starts  -->
+
+     <section class="home-packages">
+        <h1 class="heading-title">our package</h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <div class="img">
+                    <img src="image/tour2.jpeg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Looking for an adventure-packed vacation? Look no further! Our tour packages are designed to take you on exciting journeys, whether you're seeking thrills or just a change of scenery.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="img">
+                    <img src="image/tour2.jpeg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Looking for an adventure-packed vacation? Look no further! Our tour packages are designed to take you on exciting journeys, whether you're seeking thrills or just a change of scenery.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="img">
+                    <img src="image/tour2.jpeg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Looking for an adventure-packed vacation? Look no further! Our tour packages are designed to take you on exciting journeys, whether you're seeking thrills or just a change of scenery.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="load-more"><a href="package.php" class="btn">load more</a></div>
+     </section>
+
+     <!-- home package ends -->
+
+    <!-- home offer section start  -->
+
+    <section class="home-offer">
+        <div class="content">
+            <h3>up to 50% off</h3>
+            <p>We're excited to offer a limited time promotion for our valued customers! For a limited time only, we're offering a 50% discount on select tour packages. This is an incredible opportunity to save big while still enjoying an unforgettable travel experience.</p>
+            <a href="book.php" class="btn">book now</a>
+        </div>
+    </section>
+    <!-- home offer section end  -->
+
 
     <!-- footer section start  -->
     <section class="footer">
@@ -71,6 +236,8 @@
 
             </div>
         </div>
+
+        <div class="credit">@ created by <span> ajit kumar </span> | all rights reserved!</div>
     </section>
     <!-- footer section ends  -->
 
